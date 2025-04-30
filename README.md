@@ -1,5 +1,6 @@
 # Servidor MCP
 Servidor Model Context Protocol para integração com Claude Desktop oferencendo um CRUD simples para que a LLM consiga interagir. MCP básico criado para aprendizado e estudo da tecnologia.
+
 ## Requisitos
 - Python 3.10 ou superior
 - uv

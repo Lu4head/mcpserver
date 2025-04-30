@@ -1,6 +1,5 @@
-from typing import Annotated
 from sqlalchemy import create_engine, Column, Integer, String
-from sqlalchemy.orm import Session, declarative_base, sessionmaker
+from sqlalchemy.orm import declarative_base, sessionmaker
 
 SQLALCHEMY_DATABASE_URL = "sqlite:///./carros.db"
 
